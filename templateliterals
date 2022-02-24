@@ -1,0 +1,10 @@
+//template strings creation in ES6
+//to write multiline strings in ES6 we need to use backtick operator(``)
+const msg = `Welcome to Edubridge
+Welcome to Full stack development` ;
+console.log(msg);
+
+//string interpolation
+const firstName = "Manisha";
+const secondname = "C";
+console.log(`Welcome to  ${firstName} ${secondname}`);
